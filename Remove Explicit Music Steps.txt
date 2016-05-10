@@ -1,0 +1,17 @@
+Requirements:
+	-iTunes
+	-MediaHuman Lyrics Finder
+	-Joe Liszovics's Explicit Lyrics Script for iTunes
+	-Joe Liszovics's Mass Deleter Script for iTunes
+Steps:
+1. Gather necessary materials
+2. Open lyrics finder and click the little folder icon in the top-left of the window
+3. Point the directory at your music directory.
+4. Let it search (When it is nearing the end of the process the GUI may become unresponsive, this is ok, it
+is still doing what it needs to do.)
+5. When it is done, Open iTunes and import all of your music into the iTunes library
+   (If your music is already there you will need do empty the library and start from scratch)
+6. After successful import run my script "ExplicitMusicCommenter.js". (Right click on the icon and click run with CMD)
+7. After the script is done running, select all the files with the comment "Explicit" and run my second script "PermenantMusicRemoval.vbs"
+
+*My program is not gauarenteed 100% effective*
